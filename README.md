@@ -1,16 +1,16 @@
-#Movie_trailer-446
+## Movie_trailer-446
 
-##Description
+## Description
 
 My project movie trailer is all about my  favourite movie images. When we click on those movie images, their respective trailers are opened from youtube in an iframe by hovering the background.
 
-##Fullstack Technologies used
+## Fullstack Technologies used
 
 Frontend:HTML,CSS,JAVASCRIPT
 
 Backend:PYTHON language 
 
-##Prerequisites
+## Prerequisites
 
 Python updated version
 
@@ -18,7 +18,7 @@ Modern browser
 
 Python packages
 
-##Local Progress
+## Local Progress
 
 Open github.
 
