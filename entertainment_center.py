@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 import media
 import fresh_tomatoes
+# here we imported media and fresh_tomatoes python files.
 
 
 tholiprema = media.Movie("THOLIPREMA",
@@ -23,5 +24,5 @@ avengers = media.Movie("AVENGERS",
                        "https://bit.ly/2qzWJtk",
                        "https://www.youtube.com/embed/QwievZ1Tx-8")
 movies = [tholiprema, padmavati, vivegam, junglebook, mahanati, avengers]
+# different movies are stored in tuple format
 fresh_tomatoes.open_movies_page(movies)
-
